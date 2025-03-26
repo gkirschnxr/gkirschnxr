@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Kirschner
 - 👀 I’m interested in Program
-- 🌱 I’m currently learning JavaScript/HTML/CSS
+- 🌱 I’m currently learning C#
 
 
 <!---
